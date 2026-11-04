@@ -1,6 +1,6 @@
 # Minigame placeholder
 
-Stand-in for a CSpA minigame that is not built yet. Students see "under construction"; the host-game developer can open the technical panel from the footer, see the INIT the host sent, and send a test FINISH or ERROR back. When the real minigame is ready, it replaces this code in the same repo and the URL stays the same.
+Stand-in for a CSpA minigame that is not built yet. Students see "Minihra ještě není hotová" (the game is not finished yet); the host-game developer can open the "Pro vývojáře" panel from the footer, see the INIT the host sent, and send a test FINISH or ERROR back. When the real minigame is ready, it replaces this code in the same repo and the URL stays the same.
 
 ## New minigame from this template
 
